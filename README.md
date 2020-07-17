@@ -21,7 +21,21 @@ My knowledge about <b>ACI MultiPod</b> and its deployment can be found here:
 
  <a href="https://github.com/fholzi8/ACI/tree/master/aci-multipod">ACI MPod</a>
 
+<h4>Network Automation</h4>
 
+<a href="https://github.com/fholzi8/Ansible_NSO_pyATS">Ansible-driven NSO deployments with pyATS</a>
+
+<a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/testbed_pyATS">pyATS Testbed example</a>
+
+Ansible Collection
+
+Network Scripts:
+
+  <a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/pyats-network-checks">Network-Checks with pyATS</a>
+  
+  <a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/cdp-map">Mapping with CDP</a>
+  
+  <a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/LLDP-map">Mapping with LLDP</a>
 
 And, all repository in my account are valid and valuable for me but mustn't for you. Please keep this in mind.
 
