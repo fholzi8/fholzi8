@@ -14,7 +14,7 @@ Scripts for <b>ACI operation</b> can be found here:
 
  <a href="https://github.com/fholzi8/ACI/tree/master/aci-examples">ACI examples scripts for Configuration and Monitoring</a>
  
- ACI Postman Collection (will-be-linked)
+ ACI Postman Collection <a href="https://github.com/fholzi8/Postman">here</a>
 
 My knowledge about <b>ACI MultiPod</b> and its deployment can be found here: 
 
