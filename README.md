@@ -4,7 +4,7 @@ Here you will found my outsource brain and collection of good scripts/explanatio
 
 Due to the fact that I have experienced that some projects were gone (but still valuable in my view) I grab it and publish it here.
 
-<h3>What you can find here</h3>
+<h3>What you can find here</h3> (outsorced brain stuff)
 
 <h3>ACI</h3>
 
