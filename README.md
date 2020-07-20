@@ -34,7 +34,7 @@ Ansible Collection
   
   <a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/cdp-map">Mapping with CDP</a>
   
-  <a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/LLDP-map">Mapping with LLDP</a>
+  <a href="https://github.com/fholzi8/Ansible_NSO_pyATS/tree/master/LLDP-Map">Mapping with LLDP</a>
   
 <h3>K8s, Containers or Serverless</h3>
 
